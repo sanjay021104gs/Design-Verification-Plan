@@ -76,9 +76,13 @@ The frontend runs on **[http://localhost:5174](http://localhost:5174)**
 
 ## 📷 Process Flow
 
-| **Step 1**                           | **Step 2**                             | **Step 3**                 |
-| --------------------------------------- | ------------------------------------------------------ | ---------------------------------------- |
-| ![Dashboard](screenshots/img1.png) | ![Verification Plan](screenshots/img2.png) | ![Test Cases](screenshots/img3.png) |
+| **Step 1** | **Step 2** | **Step 3** |
+|-------------|-------------|-------------|
+| ![Step 1](img1.png) | ![Step 2](img2.png) | ![Step 3](img3.png) |
+
+| **Step 4** | **Step 5** |
+|-------------|-------------|
+| ![Step 4](img4.png) | ![Step 5](img5.png) |
 
 ---
 
